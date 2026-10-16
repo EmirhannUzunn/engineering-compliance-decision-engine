@@ -1,0 +1,7 @@
+Part_Number,Sub_Assembly,Part_Name,Material,Quantity,Unit_Weight_g,Unit_Cost_USD,Supplier,Lead_ppm,Cadmium_ppm,Mercury_ppm,Cert_Status,Extended_Weight_g,Extended_Cost_USD
+MTR-SUB-02,Rotor Assembly,Neodymium Magnet N42SH,NdFeB Ni-Coated,8.0,14.5,4.2,MagnaTech,850,15,0,Valid,116.0,33.6
+MTR-SUB-03,Rotor Assembly,Balancing Ring,Brass CuZn39Pb3,2.0,8.5,1.1,BrassWorks,32000,40,0,Exempt,17.0,2.2
+MTR-SUB-04,Rotor Assembly,Front Bearing 6001-2RS,Chrome Steel 100Cr6,1.0,43.0,4.8,GlobalBearing,2200,8,0,Valid,43.0,4.8
+MTR-SUB-05,Rotor Assembly,Rear Bearing 608-2RS,Chrome Steel 100Cr6,1.0,12.0,3.2,GlobalBearing,1850,6,0,Valid,12.0,3.2
+MTR-SUB-17,Housing Assembly,Tie Rod Stud Bolt M5x140,Steel 8.8 Galvanized,4.0,18.0,0.6,BoltSupply,450,120,0,Valid,72.0,2.4
+MTR-SUB-19,Electronics Assembly,Hall Sensor PCB Assembly,FR4 Electronic Board,1.0,15.0,6.5,PcbMaster,1200,10,0,Missing,15.0,6.5

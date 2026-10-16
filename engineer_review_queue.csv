@@ -1,0 +1,2 @@
+﻿review_id,part_number,risk_tier,confidence_score,risk_reason,evidence_reference,recommended_action,source_file,lead_ppm,cadmium_ppm,cert_status,timestamp
+REV-20261016-E092,MTR-SUB-11,MEDIUM RISK,75,Declaration exceeds 24-month validity threshold (4.6 years old).,Report Date [Line 9]: Report is 4.6 years old (> 2.0 yr shelf-life),Request updated supplier declaration / annual recertification.,supplier_report_MTR11.txt,18,2,Valid,2026-10-16 15:51:37

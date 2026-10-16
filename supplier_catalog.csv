@@ -1,0 +1,12 @@
+﻿Alt_Part_Number,Target_Part_Name,Supplier,Lead_ppm,Cadmium_ppm,Mercury_ppm,Cert_Status,Unit_Cost_USD;;;
+ALT-BRG-6001,Front Bearing 6001-2RS,SKF-Authorized,350,10,0,Valid,5.40;;;
+ALT-BRG-608,Rear Bearing 608-2RS,NSK-Compliant,420,5,0,Valid,3.75;;;
+ALT-BLT-M5,Tie Rod Stud Bolt M5x140,InoxFasteners,80,0,0,Valid,0.85;;;
+ALT-PCB-HALL,Hall Sensor PCB Assembly,EuroCircuit,450,5,0,Valid,7.20;;;
+ALT-VARN-01,Impregnation Varnish,ElantasResin,0,0,0,Valid,3.90;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;""""

@@ -1,0 +1,2 @@
+﻿review_id,part_number,risk_reason,evidence_reference,engineer_comment,decision,waiver_reason,engineer_id,timestamp,approved_bom_revision
+REV-20261004-259F,MTR-SUB-11,Declaration exceeds 24-month validity threshold (4.6 years old).,Report Date (2022-03-15) [Line 9]: Report is 4.6 years old (> 2.0 yr shelf-life),Laboratory digestion data acceptable; vendor recertification requested for Q1 batch.,APPROVE,"Static housing assembly, zero mechanical wear contact.",ENG-101,2026-10-04 16:17:14,REV-B

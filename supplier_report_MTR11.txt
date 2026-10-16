@@ -1,0 +1,74 @@
+========================================================================================
+EUROPEAN MATERIALS TESTING & ACCREDITATION SERVICES AG (EMTAS)
+DAkkS ACCREDITED LABORATORY - ACCREDITATION NO: D-PL-14125-01-00
+ISO/IEC 17025:2018 CERTIFIED TEST FACILITY
+========================================================================================
+
+REPORT REFERENCE NUMBER : CH-2022-88491-REV3
+ORIGINAL SUBMISSION DATE: 2021-04-12
+ISSUANCE / REPORT DATE  : 2022-03-15
+SAMPLE RECEIVED         : 2022-03-01
+CLIENT                  : ChemTech Industrial Solutions GmbH & Co. KG
+PROJECT CODE            : PRJ-MTR-BLDC-NEXTGEN
+
+========================================================================================
+SECTION 1: SAMPLE CLASSIFICATION & TRACEABILITY
+========================================================================================
+The following test specimen was delivered in bulk liquid form in a sealed fluoropolymer container.
+- Declared Customer Part Ref: MTR-SUB-11
+- Chemical Commercial Trade Name: UltraShield Impregnating Resin Class H-180
+- Batch / Lot Identifier: LOT-20220228-CH99
+- Material Safety Data Sheet (MSDS) Ref: MSDS-US-0912-Rev8
+
+NOTE ON APPLICABILITY:
+The analytical values detailed in Section 3 represent testing performed exclusively on the
+liquid matrix as received prior to thermal curing. Polymerization kinetics, volatile loss,
+and heavy metal concentration factors post-curing at 160°C are the sole engineering responsibility
+of the end-user assembly facility.
+
+========================================================================================
+SECTION 2: METHODOLOGY & APPLIED STANDARDS
+========================================================================================
+1. Heavy Metals Screening:
+   Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES) according to IEC 62321-5:2013
+   Determination of Lead (Pb), Cadmium (Cd), and Total Chromium (Cr).
+2. Mercury Determination:
+   Direct Mercury Analysis by Thermal Decomposition, Amalgamation, and Atomic Absorption Spectrophotometry
+   according to IEC 62321-4:2013+AMD1:2017.
+3. Organic Halogens & Phthalates:
+   Gas Chromatography-Mass Spectrometry (GC-MS) pursuant to EN 50581 / IEC 62321-8:2017.
+
+========================================================================================
+SECTION 3: ANALYTICAL RESULTS TABLE
+========================================================================================
+Substance / Analyte            | CAS No.     | Detection Limit | Result (mg/kg) | Regulatory Limit
+-------------------------------|-------------|-----------------|----------------|-----------------
+Cadmium (Cd)                   | 7440-43-9   | 2 mg/kg         | 4 mg/kg        | 100 mg/kg
+Mercury (Hg)                   | 7439-97-6   | 2 mg/kg         | < 2 mg/kg (ND) | 1000 mg/kg
+Hexavalent Chromium (Cr-VI)    | 18540-29-9  | 5 mg/kg         | Negative (< 5) | 1000 mg/kg
+Polybrominated Biphenyls (PBB) | Various     | 5 mg/kg         | ND (< 5 mg/kg) | 1000 mg/kg
+Polybrominated Diphenyl Ethers | Various     | 5 mg/kg         | ND (< 5 mg/kg) | 1000 mg/kg
+Bis(2-ethylhexyl) phthalate    | 117-81-7    | 50 mg/kg        | 120 mg/kg      | 1000 mg/kg
+
+CRITICAL METRIC:
+Lead (Pb) Content: In the initial digestion screening, Lead (Pb) was measured at 18 ppm 
+(equivalent to 18 mg/kg), well below the primary RoHS threshold.
+
+========================================================================================
+SECTION 4: REGULATORY COMPLIANCE STATEMENT & LEGAL DISCLAIMER
+========================================================================================
+TEST EVALUATION SUMMARY:
+The results for the analyzed sample MTR-SUB-11 comply with the analytical tolerances established
+under Directive 2011/65/EU of the European Parliament.
+
+IMPORTANT REGULATORY NOTICE:
+Pursuant to European Commission guidance, analytical reports older than 24 months from the
+date of issuance must not be utilized for self-declaration CE mark files without written
+re-validation or periodic screening certification. 
+
+Status: Approved subject to periodic audit re-qualification
+Technical Lead Chemist: Dr. Klaus Zimmermann, Dipl.-Chem.
+Authorized Signatory: EMTAS Laboratory Management Board
+========================================================================================
+END OF TEST REPORT - EMTAS ARCHIVE REF: ARC-99412
+========================================================================================
